@@ -2,3 +2,4 @@ Name: Kai
 Age: 21
 From: USA
 Favorite Color: Green
+Favorite Animal: Dog
